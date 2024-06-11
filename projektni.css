@@ -1,0 +1,20 @@
+p  {
+	color: pink;
+	font-family: "CabinSketch", sans-serif; 
+	font-size: 24px;
+}
+h1  {
+	color: pink;
+	font-size: 45px; 
+	line-height: 18px;
+	width: 700px;
+	background-color: pink
+	padding: 20px;
+ }
+h2	 {
+	color:pink;
+	font-size:30px;
+}
+body	{ 
+	background-image: url("pozadina.jpg");
+}
