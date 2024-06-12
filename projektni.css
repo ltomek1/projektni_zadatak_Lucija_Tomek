@@ -1,0 +1,24 @@
+p  {
+	color: pink;
+	font-family: "CabinSketch", sans-serif; 
+	font-size: 24px;
+}
+.custom-font {
+	font-family: 'LucijaTomek'
+}
+h1  {
+	 
+	color: pink;
+	font-size: 60px; 
+	line-height: 18px;
+	letter-spacing: 6px;
+	width: 700px;
+	padding: 20px;
+ }
+h2	 {
+	color:pink;
+	font-size:30px;
+}
+body	{ 
+	background-image: url("pozadina.jpg");
+}
